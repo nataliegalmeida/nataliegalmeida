@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Olá, eu sou a Natalie Almeida!
+# 👩🏿‍💻 Olá, eu sou a Natalie Almeida!
 
 🎓 **Analista de Sistemas | Estudante de Engenharia de Software**  
 💡 **Apaixonada por tecnologia**, com foco em **desenvolvimento back-end** e **aprendizado de máquina**  
@@ -10,7 +10,7 @@
 
 Sou uma entusiasta da tecnologia com interesses em **machine learning**, **computação quântica**, **DevOps** e **desenvolvimento back-end**. Atualmente, estou cursando **Engenharia de Software** e desenvolvendo meu **TCC** com foco em **aprendizado de máquina quântico** aplicado à **prevenção de doenças crônicas**.
 
-Quando não estou codando, você provavelmente vai me encontrar suando a camisa — **correndo** 🏃‍♀️, praticando **Muay Thai** 🥊 ou **levantando peso na academia** 💪🏽!
+Quando não estou codando, você provavelmente vai me encontrar suando a camisa — **correndo** 🏃🏿‍♀️, praticando **Muay Thai** 🥊 ou **levantando peso na academia** 💪🏽!
 
 ---
 
