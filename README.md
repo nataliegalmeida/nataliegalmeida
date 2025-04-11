@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Olá, eu sou a Natalie Almeida!
+# 👩🏾‍💻 Olá, eu sou a Natalie Almeida!
 
 🎓 **Analista de Sistemas | Estudante de Engenharia de Software**  
 💡 **Apaixonada por tecnologia**, com foco em **desenvolvimento back-end** e **aprendizado de máquina**  
