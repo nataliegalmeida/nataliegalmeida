@@ -43,7 +43,7 @@ Quando não estou codando, você provavelmente vai me encontrar suando a camisa 
     - **Cirq**: Para programação de circuitos quânticos (Google)  
     - **PennyLane**: Integração de machine learning com circuitos quânticos  
     - **TensorFlow Quantum**: Combina machine learning clássico e quântico em modelos híbridos  
-- **Deep Learning**:  
+  - **Deep Learning**:  
     - **TensorFlow**, **Keras**, **PyTorch**, **Fastai**, **OpenCV**
     - **Redes Neurais**: CNN, RNN, LSTM, GANs, Transfer Learning
     - **NLP**: Hugging Face Transformers, BERT, GPT-3
